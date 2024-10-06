@@ -1,0 +1,16 @@
+
+#profile{
+    background-color: rgba(161, 102, 50, 0.623);
+}
+#col{column-count: 5; column-gap:0cm;}
+#artext {
+    background: linear-gradient(to left, viloet, indigo, blue, green, yellow, orange, red);
+    background-clip: text;
+    display: inline;
+    color: transparent;
+    animation: animated 5s linear infinite;
+}
+div.box{  float: left;  margin: 10px;}
+
+#pad{position: relative;}
+

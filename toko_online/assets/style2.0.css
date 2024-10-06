@@ -1,0 +1,29 @@
+.bg-coklat{
+    background-color: rgb(62, 70, 76);
+}
+.bg-burlywood{
+    background-color: burlywood;
+}
+.jumbotron{
+     padding:5rem;
+     background-image:url(C.jpg);
+    }
+#profile{padding: 2rem 1rem;
+    background-color: rgba(0, 0, 0, 0.715);
+}
+#education{
+    background-color: blanchedalmond ;
+}
+#hobi{
+    background-image: url(A.jpg);
+}
+#artext {
+    background: linear-gradient(to left, viloet, indigo, blue, green, yellow, orange, red);
+    background-clip: text;
+    display: inline;
+    color: transparent;
+    animation: animated 5s linear infinite;
+}
+@keyframes animation{
+    to {background-position x: 161px;}
+}
